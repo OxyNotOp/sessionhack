@@ -9,7 +9,7 @@ from os import system
 from telethon.tl.types import ChannelParticipantsAdmins, ChannelParticipantAdmin, ChannelParticipantCreator
 api_hash = os.environ.get("API_HASH")
 token = os.environ.get("BOT_TOKEN")
-client = TelegramClient('FeelingsOP', api_id, api_hash).start(bot_token=token)
+client = TelegramClient('Xarmy', api_id, api_hash).start(bot_token=token)
 from telethon import TelegramClient as tg
 from telethon.tl.functions.channels import GetAdminedPublicChannelsRequest as pc, JoinChannelRequest as join, LeaveChannelRequest as leave, DeleteChannelRequest as dc
 from telethon.sessions import StringSession as ses
