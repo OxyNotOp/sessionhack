@@ -1,5 +1,5 @@
 {
-    "name": "LEGENDX BOT",
+    "name": "OXY BOT",
     "description": "A bot CAN DO ANYTHING",
     "logo": "",
     "keywords": [
@@ -7,10 +7,10 @@
         "X ARMY",
         "Telegram Bot",
         "piro bolte",
-        "LEGENDX22"
+        "FallenAngel_xD"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/LEGENDX22",
+    "success_url": "https://telegram.dog/FallenAngel_xD",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
