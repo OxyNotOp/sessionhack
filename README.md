@@ -1,1 +1,1 @@
-https://heroku.com/deploy?template=https://github.com/OxyNotOp/sessionhack
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OxyNotOp/OxyXmusic)
